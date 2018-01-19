@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## pure OSM-based country-by-country vector tile experiments
 
-You can use the [editor on GitHub](https://github.com/hfu/osm-countries/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+country | as of | Mapbox GL JS |
+--- | --- | ---
+Democratic Republic of the Congo | 2017-12 | [OSM Bright](https://hfu.github.io/drc1712-bright/)
+Uganda | 2018-01 | [OSM Bright](https://hfu.github.io/uga1801-bright/)
+Bhutan | 2018-01 | WORK IN PROGRESS [OSM Bright](https://hfu.github.io/btn1801-bright/)
+Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
+Central African Republic | 2018-01 | WORK IN PROGRESS [OSM Bright](https://hfu.github.io/caf1801-bright/)
+Italy | 2018-01 | WORK IN PROGRESS [OSM Bright](https://hfu.github.io/ita1801-bright/)
+Spain | 2018-01 | WORK IN PROGRESS [OSM Bright](https://hfu.github.io/esp1801-bright/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Failed datasets
+The following datasets were not possible to host via GitLab because of too large static contents. Please note that these tiles can be hosted if we have enough storage.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hfu/osm-countries/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+country | result
+--- | ---
+African continent | failed
+Iceland | failed
