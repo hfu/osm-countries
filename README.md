@@ -1,6 +1,6 @@
 ## pure OSM-based country-by-country vector tile experiments
 
-Extent | as of | Mapbox GL JS | q(n_tiles) | q(mb_size)
+Extent | as of | Mapbox GL JS 
 --- | --- | ---
 Democratic Republic of the Congo | 2017-12 | [OSM Bright](https://hfu.github.io/drc1712-bright/)
 Uganda | 2018-01 | [OSM Bright](https://hfu.github.io/uga1801-bright/)
@@ -11,6 +11,8 @@ Italy | 2018-01 | [in preparation](https://hfu.github.io/ita1801-bright/)
 Spain | 2018-01 | [in preparation](https://hfu.github.io/esp1801-bright/)
 Somalia | 2018-01 | in preparation
 Pakistan | 2018-01 | in preparation
+
+q(n_tiles), q(mb_size) and q(tiles) must be added in future.
 
 ### Failed datasets
 The following datasets were not possible to host via GitLab because of too large static contents. Please note that these tiles can be hosted if we have enough storage.
