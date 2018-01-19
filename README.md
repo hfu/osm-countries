@@ -1,8 +1,8 @@
 ## pure OSM-based country-by-country vector tile experiments
 
-Extent | as of | Mapbox GL JS |
+Extent | as of | Mapbox GL JS | q(n_tiles) | q(mb_size)
 --- | --- | ---
-Democratic Republic of the Congo | 2017-12 | [OSM Bright](https://hfu.github.io/drc1712-bright/) | q(n_tiles) | q(mb_size)
+Democratic Republic of the Congo | 2017-12 | [OSM Bright](https://hfu.github.io/drc1712-bright/)
 Uganda | 2018-01 | [OSM Bright](https://hfu.github.io/uga1801-bright/)
 Bhutan | 2018-01 | [OSM Bright](https://hfu.github.io/btn1801-bright/)
 Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
