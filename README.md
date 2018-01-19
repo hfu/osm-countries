@@ -9,6 +9,8 @@ Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
 Central African Republic | 2018-01 | [OSM Bright](https://hfu.github.io/caf1801-bright/)
 Italy | 2018-01 | [in preparation](https://hfu.github.io/ita1801-bright/)
 Spain | 2018-01 | [in preparation](https://hfu.github.io/esp1801-bright/)
+Somalia | 2018-01 | in preparation
+Pakistan | 2018-01 | in preparation
 
 ### Failed datasets
 The following datasets were not possible to host via GitLab because of too large static contents. Please note that these tiles can be hosted if we have enough storage.
