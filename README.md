@@ -7,10 +7,9 @@ Uganda | 2018-01 | [OSM Bright](https://hfu.github.io/uga1801-bright/)
 Bhutan | 2018-01 | [OSM Bright](https://hfu.github.io/btn1801-bright/)
 Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
 Central African Republic | 2018-01 | [OSM Bright](https://hfu.github.io/caf1801-bright/)
-Italy | 2018-01 | [in preparation](https://hfu.github.io/ita1801-bright/)
-Spain | 2018-01 | [in preparation](https://hfu.github.io/esp1801-bright/)
 Somalia | 2018-01 | in preparation
 Pakistan | 2018-01 | in preparation
+Mali | |
 
 q(n_tiles), q(mb_size) and q(tiles) must be added in future.
 
@@ -19,5 +18,7 @@ The following datasets were not possible to host via GitLab because of too large
 
 Extent | Result
 --- | ---
-African continent | failed
-Iceland | failed
+African continent | exceeded disk quota
+Iceland | exceeded disk quota (12GB on fs)
+Italy | exceeded disk quota (> 10GB on fs)
+Spain | called off due to large size (> 11GB on fs)
