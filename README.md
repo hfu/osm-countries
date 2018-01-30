@@ -7,9 +7,10 @@ Uganda | 2018-01 | [OSM Bright](https://hfu.github.io/uga1801-bright/)
 Bhutan | 2018-01 | [OSM Bright](https://hfu.github.io/btn1801-bright/)
 Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
 Central African Republic | 2018-01 | [OSM Bright](https://hfu.github.io/caf1801-bright/)
-Somalia | 2018-01 | in preparation
+Somalia | 2018-01 | [OSM Bright](https://hfu.github.io/som1801-bright/)
 Pakistan | 2018-01 | in preparation
-Mali | |
+Mali | 2018-01 |
+Haiti | 2018-01 |
 
 q(n_tiles), q(mb_size) and q(tiles) must be added in future.
 
