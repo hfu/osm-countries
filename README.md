@@ -10,7 +10,7 @@ Central African Republic | 2018-01 | [OSM Bright](https://hfu.github.io/caf1801-
 Somalia | 2018-01 | [OSM Bright](https://hfu.github.io/som1801-bright/)
 Pakistan | 2018-01 | [OSM Bright](https://hfu.github.io/pak1801-bright/)
 Mali | 2018-01 | [OSM Bright](https://hfu.github.io/mli1801-bright/)
-Haiti | 2018-01 |
+Haiti | 2018-01 | [OSM Bright](https://hfu.github.io/hti1801-bright/)
 
 q(n_tiles), q(mb_size) and q(tiles) must be added in future.
 
