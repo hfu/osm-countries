@@ -8,7 +8,7 @@ Bhutan | 2018-01 | [OSM Bright](https://hfu.github.io/btn1801-bright/)
 Denmark | 2018-01 | [OSM Bright](https://hfu.github.io/dnk1801-bright/)
 Central African Republic | 2018-01 | [OSM Bright](https://hfu.github.io/caf1801-bright/)
 Somalia | 2018-01 | [OSM Bright](https://hfu.github.io/som1801-bright/)
-Pakistan | 2018-01 | in preparation
+Pakistan | 2018-01 | [OSM Bright](https://hfu.github.io/pak1801-bright/)
 Mali | 2018-01 | [OSM Bright](https://hfu.github.io/mli1801-bright/)
 Haiti | 2018-01 |
 
